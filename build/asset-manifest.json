@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/tes-tokped/static/css/main.f1a1eb86.chunk.css",
+    "main.js": "/tes-tokped/static/js/main.52f3b2b8.chunk.js",
+    "main.js.map": "/tes-tokped/static/js/main.52f3b2b8.chunk.js.map",
+    "runtime-main.js": "/tes-tokped/static/js/runtime-main.28541e97.js",
+    "runtime-main.js.map": "/tes-tokped/static/js/runtime-main.28541e97.js.map",
+    "static/js/2.ba23dfc1.chunk.js": "/tes-tokped/static/js/2.ba23dfc1.chunk.js",
+    "static/js/2.ba23dfc1.chunk.js.map": "/tes-tokped/static/js/2.ba23dfc1.chunk.js.map",
+    "static/js/3.10bfcb31.chunk.js": "/tes-tokped/static/js/3.10bfcb31.chunk.js",
+    "static/js/3.10bfcb31.chunk.js.map": "/tes-tokped/static/js/3.10bfcb31.chunk.js.map",
+    "index.html": "/tes-tokped/index.html",
+    "service-worker.js": "/tes-tokped/service-worker.js",
+    "service-worker.js.map": "/tes-tokped/service-worker.js.map",
+    "static/css/main.f1a1eb86.chunk.css.map": "/tes-tokped/static/css/main.f1a1eb86.chunk.css.map",
+    "static/js/2.ba23dfc1.chunk.js.LICENSE.txt": "/tes-tokped/static/js/2.ba23dfc1.chunk.js.LICENSE.txt",
+    "static/media/footprints.187beaa7.png": "/tes-tokped/static/media/footprints.187beaa7.png",
+    "static/media/gotcha.e52aa4c3.png": "/tes-tokped/static/media/gotcha.e52aa4c3.png",
+    "static/media/open_pokeball.327609e2.png": "/tes-tokped/static/media/open_pokeball.327609e2.png",
+    "static/media/pokeball.9fc0eeae.png": "/tes-tokped/static/media/pokeball.9fc0eeae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28541e97.js",
+    "static/js/2.ba23dfc1.chunk.js",
+    "static/css/main.f1a1eb86.chunk.css",
+    "static/js/main.52f3b2b8.chunk.js"
+  ]
+}
